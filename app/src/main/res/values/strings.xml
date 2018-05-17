@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">工程设计考核</string>
+    <string name="title_home">学生首页</string>
+    <string name="title_dashboard">成绩录入</string>
+    <string name="title_notifications">作品拍照</string>
+    <string name="title_quit">返回</string>
+
+</resources>
